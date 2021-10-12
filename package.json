@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "version": "",
-    "description": "",
+    "name": "ImageApi",
+    "version": "1.0.0",
+    "description": "REST API - Images",
     "dependencies": {
-        "restify": "",
-		"save": ""
+        "restify": "4.1.1",
+		"save": "2.3.0"
 
     },
-    "author": "",
+    "author": "Seth-Alkins",
 	"private": true,
-	"main": ""
+	"main": "index.js"
 }
